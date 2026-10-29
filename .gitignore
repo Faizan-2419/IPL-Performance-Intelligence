@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local configuration
+.env
+
+# Temporary files
+.DS_Store
+Thumbs.db
+data/ipl_ball_ball.csv

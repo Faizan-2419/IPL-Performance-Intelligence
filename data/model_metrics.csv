@@ -1,0 +1,2 @@
+model_name,model_version,MAE,RMSE,R2,training_matches,testing_matches
+HistGradientBoostingRegressor,1.0,15.8274500141241,21.26092580631434,0.644047402778833,945,237
